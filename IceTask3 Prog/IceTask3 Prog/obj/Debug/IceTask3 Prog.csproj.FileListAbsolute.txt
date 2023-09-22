@@ -1,0 +1,7 @@
+C:\Users\samra\source\repos\IceTask3 Prog\IceTask3 Prog\bin\Debug\IceTask3 Prog.exe.config
+C:\Users\samra\source\repos\IceTask3 Prog\IceTask3 Prog\bin\Debug\IceTask3 Prog.exe
+C:\Users\samra\source\repos\IceTask3 Prog\IceTask3 Prog\bin\Debug\IceTask3 Prog.pdb
+C:\Users\samra\source\repos\IceTask3 Prog\IceTask3 Prog\obj\Debug\IceTask3 Prog.csproj.AssemblyReference.cache
+C:\Users\samra\source\repos\IceTask3 Prog\IceTask3 Prog\obj\Debug\IceTask3 Prog.csproj.CoreCompileInputs.cache
+C:\Users\samra\source\repos\IceTask3 Prog\IceTask3 Prog\obj\Debug\IceTask3 Prog.exe
+C:\Users\samra\source\repos\IceTask3 Prog\IceTask3 Prog\obj\Debug\IceTask3 Prog.pdb
